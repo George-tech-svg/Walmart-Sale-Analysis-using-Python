@@ -26,33 +26,6 @@ This project analyzes Walmart's weekly sales data from February 2010 to October 
 | CPI | Consumer Price Index |
 | Unemployment | Regional unemployment rate |
 
-## Project Structure
-walmart_sales_analysis/
-│
-├── data/
-│ └── Walmart_Sales.csv # Raw data file
-│
-├── outputs/
-│ └── walmart_cleaned.csv # Cleaned and feature-engineered data
-│ └── walmart_analysis_summary.csv # Summary metrics and KPIs
-│
-├── reports/
-│ └── walmart_analysis_report.pdf # Professional PDF report
-│
-├── charts/
-│ └── sales_trend.png # Sales trend over time chart
-│ └── top_stores.png # Top 10 stores bar chart
-│ └── holiday_effect.png # Holiday vs non-holiday comparison
-│ └── monthly_pattern.png # Monthly sales pattern chart
-│ └── correlation_heatmap.png # Correlation heatmap
-│ └── temp_vs_sales.png # Temperature vs sales scatter plot
-│
-├── walmart_sales_analysis.ipynb # Main Jupyter notebook
-│
-└── README.md # Project documentation
-
-text
-
 ## Key Findings
 
 ### Overall Sales Metrics
